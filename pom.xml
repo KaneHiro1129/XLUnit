@@ -15,7 +15,6 @@
 	<properties>
 		<java-version>1.8</java-version>
 		<encoding-type>UTF-8</encoding-type>
-
 		<project.build.sourceEncoding>${encoding-type}</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>${encoding-type}</project.reporting.outputEncoding>
 		<maven.compiler.source>${java-version}</maven.compiler.source>
